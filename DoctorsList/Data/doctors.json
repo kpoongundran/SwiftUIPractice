@@ -1,0 +1,84 @@
+[
+    {
+        "name": "Dr.Ashok Rajagopal",
+        "qualification": "MBBS. MS.,",
+        "image" : "DrAshok",
+        "experience": "33 years",
+        "specialist": "Orthopedic",
+        "city": "Chennai",
+        "language": "English, Tamil",
+        "description": [
+            "Ashok Rajgopal is one of the most experienced & respected Orthopaedic surgeon in India, currently working as a Group Chairman at Vijaya Healthcentre the Chennai.",
+            "With a coveted experience of over 32 years, he has a ground-breaking record of completing 25,000 Total Knee Replacement surgeries..",
+            "He was the honorary surgeon to the President of India."
+        ]
+    },
+    {
+        "name": "Dr.Naresh Trehan",
+        "qualification": "MBBS. MS.,",
+        "image" : "DrNaresh",
+        "experience": "43 years",
+        "specialist": "Oncologist",
+        "city": "Bengaluru",
+        "language": "English, Tamil, Kannada",
+        "description": [
+            "Currently associated as the chairman and managing director and is the chief cardiac surgeon at Medanta hospital, Gurgaon.",
+            "Considered India's most successful cardiothoracic surgeon with experience of over 40 years",
+            "Dr. Naresh has performed over 48000  cardiac surgeries"
+        ]
+    },
+    {
+        "name": "Dr.Suresh Advani",
+        "qualification": "MBBS. MS.,",
+        "image" : "DrSuresh",
+        "experience": "43 years",
+        "specialist": "Oncologist",
+        "city": "Mumbai",
+        "language": "English, Tamil, Marathi",
+        "description": [
+            "Dr. Suresh H. Advani is a medical, pediatric oncologist and heamato-oncologist with 43+ years of experience.",
+            "He has been honored with highest civilian awards of India, namely Padma Bhushan Award in 2012 and Padma Shri by Government of India in 2002.",
+            "He is also recipient of the Dhanvantari Award in 2002, Dr. B. C. Roy National Award by Medical Council of India in 2005, Rashtriyra Krantiveer Award, Ujjain in 2014 and awarded Lifetime Achievement in Oncology by Harvard Medical International in 2005"
+        ]
+    },
+    {
+        "name": "Dr.Aditya Gupta",
+        "qualification": "MBBS. MS.,",
+        "image" : "DrAditya",
+        "experience": "21 years",
+        "specialist": "Spine surgeon",
+        "city": "Pune",
+        "language": "English, Hindi",
+        "description": [
+            "Dr Aditya Gupta is one of the most coveted surgeons in the field of Neurosurgery in India.",
+            "He has over 21+ years of experience and has excellent surgical techniques for a wide variety of brain tumour’s & spine diseases.",
+            "Dr Gupta has special and unique skills in managing patients with Movement Disorders with Deep Brain Stimulation (DBS), Surgery for Epilepsy, Nerve and Brachial Plexus Surgery, Radiosurgery as well as Cerebrovascular Surgery"
+        ]
+    },
+    {
+        "name": "Dr.Tapti Sen",
+        "qualification": "MBBS. MS.,",
+        "image" : "DrTapti",
+        "experience": "31 years",
+        "specialist": "Oncologist",
+        "city": "Kolkata",
+        "language": "English, Bengali",
+        "description": [
+            "Currently associated as the chairman and managing director and is the chief cardiac surgeon at Medanta hospital, Gurgaon.",
+            "Dr. Sen holds professional memberships of the European Society Of Medical Oncology (ESMO), the Indian Medical association (IMA), the Indian Society Of Oncology (ISO) and is the Principal Investigator at the Clinical Trials Registry of India (CTRI). "
+        ]
+    },
+    {
+        "name": "Kaza Mohammed",
+        "qualification": "MBBS. MS.,",
+        "image" : "DrKaza",
+        "experience": "36 years",
+        "specialist": "Urologist",
+        "city": "New Delhi",
+        "language": "English, Hindi, Urdu",
+        "description": [
+            "India's leading doctor for Male Infertility, Vasectomy and Urology",
+            "Male infertility and Micro Surgery 26 years"
+        ]
+    }
+]
