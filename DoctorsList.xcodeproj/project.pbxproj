@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7F3892EF266DEE470069B632 /* DoctorsTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F3892EE266DEE470069B632 /* DoctorsTabView.swift */; };
 		7F847B2626695054002EFB16 /* DoctorsListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F847B2526695054002EFB16 /* DoctorsListApp.swift */; };
 		7F847B2826695054002EFB16 /* DoctorsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F847B2726695054002EFB16 /* DoctorsView.swift */; };
 		7F847B2A2669505B002EFB16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F847B292669505B002EFB16 /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7F3892EE266DEE470069B632 /* DoctorsTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoctorsTabView.swift; sourceTree = "<group>"; };
 		7F847B2226695054002EFB16 /* DoctorsList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DoctorsList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F847B2526695054002EFB16 /* DoctorsListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoctorsListApp.swift; sourceTree = "<group>"; };
 		7F847B2726695054002EFB16 /* DoctorsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoctorsView.swift; sourceTree = "<group>"; };
@@ -110,6 +112,7 @@
 		7F847B38266950AC002EFB16 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				7F3892EE266DEE470069B632 /* DoctorsTabView.swift */,
 				7F847B2726695054002EFB16 /* DoctorsView.swift */,
 				7F847B4826695FAA002EFB16 /* DoctorViewDetails.swift */,
 			);
@@ -194,6 +197,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7F3892EF266DEE470069B632 /* DoctorsTabView.swift in Sources */,
 				7F847B4926695FAA002EFB16 /* DoctorViewDetails.swift in Sources */,
 				7F847B4626695926002EFB16 /* DataServices.swift in Sources */,
 				7F847B3D26695589002EFB16 /* DoctorsModel.swift in Sources */,
